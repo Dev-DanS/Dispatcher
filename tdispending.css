@@ -1,0 +1,12 @@
+body {
+  background-color: #03b14e !important;
+}
+
+.none{
+  text-align: center;
+}
+
+.loading{
+  display: flex;
+  align-items: center;
+}
